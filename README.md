@@ -7,7 +7,7 @@ noise](http://www.spiritofiron.com/2015/01/simplectic-noise.html).
 
 # license
 
-`simplectic-c` is made available under the Boot Software License, version 1.0.
+`simplectic-c` is made available under the Boost Software License, version 1.0.
 In short, this means:
 
 - Permission is granted without fee to copy, use and modify the software for
